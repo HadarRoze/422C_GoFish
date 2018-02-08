@@ -2,7 +2,7 @@ package gofish_assn;
 
 import java.util.ArrayList;
 
-public class Player {
+public class Player { //this class simulates a player in the game
 	
 	ArrayList<Card> hand = new ArrayList<Card>();
 	ArrayList<Card> book = new ArrayList<Card>();
